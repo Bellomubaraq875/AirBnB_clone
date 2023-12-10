@@ -44,7 +44,7 @@ If you encounter any issues or have questions about the AirBnB Clone console, fe
 
 ## Authors
 The AirBnB Clone console project was developed by:
-- Bello Mubaraq: bellomubara875@gmail.com
+- Bello Mubaraq: bellomubaraq875@gmail.com
 
 Please feel free to reach out to the authors with any questions or feedback regarding the project.
 
