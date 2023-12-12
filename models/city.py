@@ -1,14 +1,9 @@
 #!/usr/bin/python3
-
-"""
-Where the city address is located in
-"""
-
-
+""" Class City """
 from models.base_model import BaseModel
 
 
 class City(BaseModel):
-    """Represents a city with its associated information"""
+    """ City class that inherits BaseModel """
     state_id = ""
     name = ""

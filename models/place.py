@@ -1,14 +1,11 @@
 #!/usr/bin/python3
-"""
-Information about the place where the apartments is located
-"""
-
+""" Class Place """
 
 from models.base_model import BaseModel
 
 
 class Place(BaseModel):
-    """Represents a place with its associated information"""
+    """ Place class that inherits BaseModel """
     city_id = ""
     user_id = ""
     name = ""

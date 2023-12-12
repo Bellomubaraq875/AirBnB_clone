@@ -1,14 +1,10 @@
 #!/usr/bin/python3
-"""
-subclass Review about the apartments
-"""
-
-
+""" Class Review """
 from models.base_model import BaseModel
 
 
 class Review(BaseModel):
-    """subclass that contains reviews from previous and current users"""
+    """ Review class that inherits BaseModel """
     place_id = ""
     user_id = ""
     text = ""

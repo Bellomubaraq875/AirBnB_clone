@@ -1,14 +1,10 @@
 #!/usr/bin/python3
-"""
-This is a class User that inherits from baseModel
-"""
-
-
+""" User Class """
 from models.base_model import BaseModel
 
 
 class User(BaseModel):
-    """This class inherits and has the following public attributes"""
+    """ User class that inherits BaseModel """
     email = ""
     password = ""
     first_name = ""
